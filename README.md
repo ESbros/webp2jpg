@@ -1,5 +1,5 @@
 # webp2jpg
-Transform webp images to jpg
+Transformar imagenes webp a jpg
 
 Pasar la direccion de la carpeta que contiene las imagenes
 
