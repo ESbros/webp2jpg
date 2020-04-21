@@ -1,7 +1,7 @@
 # webp2jpg
-### Transformar imagenes webp a jpg
+### Transform webp to jpg images
 
-Pasar la direccion de la carpeta que contiene las imagenes
+Pass the address of the folder containing the images
 
 ## Dependencies
 Pillow                  6.0.0
